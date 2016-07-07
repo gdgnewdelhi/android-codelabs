@@ -10,15 +10,15 @@ This is the central repository which contains codebase for all android based cod
 Please follow the below steps to add code for every android codelab 
 
 + The base app is in the `master` branch and this is your starting point always.
-+ To add a new codelab codebase , branch from `master` with name conforming to below standard
++ Fork this repo to your account
++ Now to add a new codelab's codebase , branch from `master` with name conforming to below standard
   ```
   <codelab_name>_<feature_demonstrating>_<speakername>_<serial_number>
   
   ```
   where <serial_number> is optional , only to be mentioned if there are more than one projects for the same codelab.
 + Make your series of commits of your code in the branch created in last step.
-+ Keep it simple.
-
++ when done send a pull request to this repo and we will merge it.
 
 Happy Coding :smile:
 

@@ -18,7 +18,7 @@ Please follow the below steps to add code for every android codelab
   ```
   where <serial_number> is optional , only to be mentioned if there are more than one projects for the same codelab.
 + Make your series of commits of your code in the branch created in last step.
-+ when done send a pull request to this repo and we will merge it.
++ When done send a pull request to this repo and we will merge it.
 
 Happy Coding :smile:
 
